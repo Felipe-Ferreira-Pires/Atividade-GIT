@@ -1,47 +1,4 @@
-Atividade: Gerenciamento de Repositórios com Git e GitHub 09/10/2024
 
-Objetivo:
-Aprender a utilizar as funcionalidades de fork, clone, branches e pull requests no Git e GitHub.
-
-Passos:
-
-1. **Fazer um Fork do Repositório**:
-   - Acesse o repositório original no GitHub e clique no botão "Fork" para criar uma cópia do repositório em sua conta.
-
-2. **Clonar o Repositório**:
-   - No terminal, use o comando `git clone <URL do repositório forkado>` para baixar a cópia do repositório para o seu computador.
-
-3. **Criar Branches**:
-   - Navegue até a pasta do repositório clonado.
-   - Crie duas branches: uma chamada `GitHub` e outra chamada `Git` .
-    
-
-4. **Descrever as Branches**:
-   - Branch GitHub: Esta branch pode ser utilizada para implementar melhorias relacionadas ao uso do GitHub, como a organização do repositório, criação de issues, ou pull requests.
-   - Branch Git: Esta branch pode ser dedicada ao aprendizado e implementação de comandos Git, como commits, merges e reverts.
-
-5. Realizar Alterações:
-   - Em cada branch, faça alterações relevantes que demonstrem o que você aprendeu. Por exemplo, adicione um arquivo README que descreva o propósito de cada branch ou faça modificações no código existente.
-
-6. Salvar as Alteraçõe*:
-     git add .
-     git commit -m "Descreva suas alterações aqui"
-     
-
-7. **Fazer o Push das Alterações**:
-   - Envie suas alterações para o repositório remoto com os comandos:
-     git push origin GitHub
-     git push origin Git
-     
-
-8. Fazer uma Pull Request:
-   - No GitHub, navegue até seu repositório forkado, selecione a branch que deseja mesclar (por exemplo, `GitHub`) e clique em "Pull Request".
-   - Descreva suas alterações e solicite a revisão para a branch principal do repositório original.
-
-9. Salvar as Alterações:
-   - Após a revisão e aceitação da Pull Request, suas alterações serão mescladas ao repositório original.
-
-
-
+Git é um acesso mais dificil de ser usado mas que deixa mais facil tudo, como por exemplo o acesso em algumas atividades e etc
 
 
